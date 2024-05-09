@@ -4,7 +4,11 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!" + " Tunnel Snakes Rule!");
+console.log("Tunnel Snakes Rule!");
+console.log('Quoth the raven "Nevermore."');
+console.log(10+3);
+console.log("ten plus Three is: " + (10 + 3));
 
 /*  
 Next, PLAY! 
